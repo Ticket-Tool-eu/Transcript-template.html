@@ -12,5 +12,5 @@
         </li>
     </ul>
 </div>
-  <link href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&display=swap" rel="stylesheet">
+
   

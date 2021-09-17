@@ -6,7 +6,7 @@
         <li>
             <a href="https://ticket-tool.eu" target="_blank">Home</a>
         </li>
-        |
+    
         <li>
             <a href="https://ticket-tool.eu/support"_blank">Support</a>
         </li>

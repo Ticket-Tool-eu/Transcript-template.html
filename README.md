@@ -1,12 +1,17 @@
 # Transcript-template.html
 
+<link rel="shortcut icon" type="image/png" href="https://ticket-tool.eu/img/tickettoollogo.png">
+<div class="right">
+    <ul id="nav-right">
         <li>
-            <a href="https://Unixserv.eu" target="_blank">Home</a>
+            <a href="https://ticket-tool.eu" target="_blank">Home</a>
         </li>
-        
+        |
         <li>
-            <a href="https://Unixserv.eu/support"_blank">Support</a>
+            <a href="https://ticket-tool.eu/support"_blank">Support</a>
         </li>
+    </ul>
+</div>
 
 
   
